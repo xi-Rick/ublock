@@ -1,5 +1,5 @@
 This is a filter list used in uBlock Origin with the intent to minimalize popular websites, create an ad-free environment and 
-an overall better browsing exprience.
+an overall better browsing experience.
 
 Contributions are always welcome.
 
