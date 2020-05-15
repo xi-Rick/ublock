@@ -1,0 +1,100 @@
+! ---------- Fmovies ----------
+fmovies.to##.home-socials
+fmovies.to##.container > p
+fmovies.to##.old
+fmovies.to###footer
+fmovies.to##.footerdesc
+fmovies.to###copyright
+fmovies.to##.hidden-xs.notice.alert-default.alert
+||disqus.com/embed/comments/
+###disqus_thread
+fmovies.to###comment > .widget-title
+fmovies.to##.pull-right.report.mbtn.item
+fmovies.to##.stars
+fmovies.to##.rating.item > label
+fmovies.to###movie > div.widget:nth-of-type(2)
+fmovies.to##.edit-watchlist.mbtn.item
+fmovies.to##.hidden-xs.watch-trailer.mbtn.item
+fmovies.to##.rating.item
+fmovies.to##.wrapper-alt
+fmovies.to##.col-xs-24.col-md-17.col-left > .hidden-xs
+fmovies.to##.bl-seasons > .heading
+fmovies.to##.bl-servers > .heading
+
+! ---------- 9anime ----------
+9anime.ru##.player.widget > .widget-title
+9anime.ru##.content > .mgid.text-center.crop.widget
+9anime.ru##.comment.widget > .widget-title
+9anime.ru##.comment.widget > .widget-body
+9anime.ru##div.widget:nth-of-type(10) > .widget-body
+9anime.ru##div.widget:nth-of-type(10) > .widget-title
+9anime.ru###footer
+9anime.ru##.tip.control.report > span
+9anime.ru##.icon-info-circle.icon
+9anime.ru##.disabled.text
+9anime.ru##.tip.dropdown.control.userbookmark
+9anime.ru##.tip.control.share
+9anime.to##.alert-primary.alert
+9anime.to##.home-socials
+9anime.to##.index > p
+9anime.to##.old > .btn-primary.btn
+9anime.to###footer
+9anime.to##.signin
+9anime.to##.comment.widget > .widget-body
+9anime.to##.comment.widget > .widget-title
+9anime.to##.content > .mgid.text-center.crop.widget
+9anime.to##.signin
+
+! ---------- Spotify Homepage + Web Player ---------- 
+*/mp3-ad/*
+*/mp3-ad/*$domain=open.spotify.com
+/mp3-ad/*$domain=open.spotify.com
+*/mp3-ad/*$domain=play.spotify.com
+*/mp3-ad/*$domain=apresolve.spotify.com
+*/cloudfront.net/mp3-ad/*
+||audio-ak-spotify-com.akamaized.net/$media
+||audio-fa.scdn.co/audio/*$media,redirect=noopmp3-0.1s,domain=open.spotify.com
+||akamaized.net/audio/*$media,redirect=noopmp3-0.1s,domain=open.spotify.com
+||audio-fa.scdn.co/audio/*$media,redirect=noopmp3-0.1s,domain=open.spotify.com
+@@||spclient.wg.spotify.com/connect-api/v2/from/*$xmlhttprequest,domain=open.spotify.com
+@@||spclient.wg.spotify.com/connect-api$xmlhttprequest,domain=open.spotify.com
+||open.spotify.com/blank$subdocument
+
+! ---------- twist ----------
+twist.moe##.toggles-desktop > button:nth-of-type(2)
+twist.moe##.donations
+twist.moe##.notification-msg
+
+! ---------- Kissmanga ----------
+kissmanga.com###topHolderBox
+
+! ---------- Manganelo ----------
+manganelo.com##.panel-chapter-info-top
+manganelo.com##.body-site > div:nth-of-type(4)
+||www.facebook.com/plugins/comments.php?app_id=190712595201460&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df38c24d77acc3c%26domain%3Dmanganelo.com%26origin%3Dhttps%253A%252F%252Fmanganelo.com%252Ffd3e93b63b3f5%26relation%3Dparent.parent&color_scheme=light&container_width=1011&height=100&href=http%3A%2F%2Fmanganelo.com%2Fchapter%2Fread_one_piece_manga_online_free4%2Fchapter_976&locale=en_US&numposts=10&sdk=joey$subdocument
+manganelo.com##.panel-chapter-info-bot
+manganelo.com##.fb-comment-title-show.fb-comment-title
+manganelo.com##.fb_iframe_widget_fluid_desktop.fb_iframe_widget.fb-comments
+manganelo.com##.container-footer-content
+manganelo.com##div.container:nth-of-type(6) > .panel-breadcrumb
+manganelo.com##.box-user-options
+
+! ---------- LookMovie ----------
+lookmovie.ag##.plr-help-stripe
+lookmovie.ag###M397136ScriptRootC826891
+lookmovie.ag##.flex-parent-ft
+lookmovie.ag##.ft-copyright
+lookmovie.ag##.loginLink
+lookmovie.ag##.rate > p:nth-of-type(1) > span
+lookmovie.ag##.rate > p:nth-of-type(2)
+lookmovie.ag###report-button
+lookmovie.ag##.group-item.hotkeys-help
+lookmovie.ag##.player-external-controls
+lookmovie.ag##.movie-btn
+
+! ---------- Keybr ----------
+www.keybr.com##.Supporter--size-160x600.Supporter > .Supporter-placeholder
+www.keybr.com##.Body-header
+www.keybr.com##.Body-aside
+www.keybr.com##.Article
+www.keybr.com##.Body-footer
