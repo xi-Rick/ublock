@@ -111,6 +111,7 @@ kissmanga.com##div.rightBox:nth-of-type(3)
 kissmanga.com##div.rightBox:nth-of-type(1) > .barTitle
 ||kissmanga.com/Content/images/tpl_box_arrow.gif$image
 kissmanga.com##div.rightBox:nth-of-type(1) > .barContent > .arrow-general
+kissmanga.com##div.clear:nth-of-type(8)
 
 ! ---------- Manganelo ----------
 manganelo.com##.panel-chapter-info-top
