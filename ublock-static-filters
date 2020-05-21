@@ -70,6 +70,7 @@ kissmanga.com##div:nth-of-type(2) > div.clear:nth-of-type(2)
 kissmanga.com##.chapterList.barContent > div:nth-of-type(2) > div:nth-of-type(3)
 kissmanga.com##div.clear:nth-of-type(4)
 ||kissmanga.com/Content/images/tpl_box_arrow.gif$image
+kissmanga.com###topHolderBox
 kissmanga.com##.chapterList.barContent > .arrow-general
 kissmanga.com###containerRoot > div:nth-of-type(7)
 kissmanga.com##div:nth-of-type(4) > p
