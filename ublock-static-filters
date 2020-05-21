@@ -1,25 +1,23 @@
+! 5/21/2020 https://fmovies.to
 ! ---------- Fmovies ----------
-fmovies.to##.home-socials
-fmovies.to##.container > p
-fmovies.to##.old
-fmovies.to###footer
-fmovies.to##.footerdesc
-fmovies.to###copyright
+fmovies.to###control
+fmovies.to##.bl-servers > .heading
+fmovies.to##div.widget:nth-of-type(2)
+fmovies.to##.hidden-sm.hidden-xs.alert-warning.alert
 fmovies.to##.hidden-xs.notice.alert-default.alert
+fmovies.to##.home-socials
+fmovies.to##.notice.alert-default.alert
+fmovies.to##.container > .row
+fmovies.to###footer
+fmovies.to###copyright
+fmovies.to##.container > p
+fmovies.to##.footerdesc
+fmovies.to##.old > .btn-primary.btn
 ||disqus.com/embed/comments/
 ###disqus_thread
-fmovies.to###comment > .widget-title
-fmovies.to##.pull-right.report.mbtn.item
-fmovies.to##.stars
-fmovies.to##.rating.item > label
-fmovies.to###movie > div.widget:nth-of-type(2)
-fmovies.to##.edit-watchlist.mbtn.item
-fmovies.to##.hidden-xs.watch-trailer.mbtn.item
-fmovies.to##.rating.item
-fmovies.to##.wrapper-alt
-fmovies.to##.col-xs-24.col-md-17.col-left > .hidden-xs
-fmovies.to##.bl-seasons > .heading
-fmovies.to##.bl-servers > .heading
+fmovies.to##.wrapper-alt > .container
+fmovies.to###tags
+
 
 ! ---------- 9anime ----------
 9anime.ru##.player.widget > .widget-title
@@ -98,3 +96,16 @@ www.keybr.com##.Body-header
 www.keybr.com##.Body-aside
 www.keybr.com##.Article
 www.keybr.com##.Body-footer
+
+! ---------- HiMovies ----------
+www2.himovies.to##.mb-3.alert
+www2.himovies.to###footer
+www2.himovies.to###film_comments
+www2.himovies.to###launcher
+||i.imgur.com/yj2bquI.jpg$image
+www2.himovies.to##[href="javascript:;"]
+
+! ---------- 4anime ----------
+4anime.to###rightside
+4anime.to##.containerfooter
+4anime.to###show-comments
