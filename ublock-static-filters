@@ -1,6 +1,9 @@
 ! ---------- Fmovies ----------
 fmovies.to###control
-fmovies.to##.bl-servers > .heading
+fmovies.to##.heading > span
+fmovies.to##.servers > .active
+fmovies.to##.servers > li:nth-of-type(2)
+fmovies.to##.servers
 fmovies.to##div.widget:nth-of-type(2)
 fmovies.to##.hidden-sm.hidden-xs.alert-warning.alert
 fmovies.to##.hidden-xs.notice.alert-default.alert
