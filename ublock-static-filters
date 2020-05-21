@@ -17,7 +17,6 @@ fmovies.to##.old > .btn-primary.btn
 fmovies.to##.wrapper-alt > .container
 fmovies.to###tags
 
-
 ! ---------- 9anime ----------
 9anime.ru##.player.widget > .widget-title
 9anime.ru##.content > .mgid.text-center.crop.widget
