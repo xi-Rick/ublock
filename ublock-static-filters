@@ -169,3 +169,5 @@ soap2day.im##.text-center.panel-body
 soap2day.im##.col-xs-12.col-lg-12.col-sm-12
 soap2day.im##div.col-lg-12.col-sm-12:nth-of-type(2)
 soap2day.im##div.col-lg-12.col-sm-12:nth-of-type(4)
+soap2day.im##.btn-success.btn
+soap2day.im###aLogin
