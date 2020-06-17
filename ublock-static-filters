@@ -1,24 +1,24 @@
 ! ---------- Fmovies ----------
-fmovies.to###control
-fmovies.to##.heading > span
-fmovies.to##.servers > .active
-fmovies.to##.servers > li:nth-of-type(2)
-fmovies.to##.servers
-fmovies.to##div.widget:nth-of-type(2)
-fmovies.to##.hidden-sm.hidden-xs.alert-warning.alert
-fmovies.to##.hidden-xs.notice.alert-default.alert
-fmovies.to##.home-socials
-fmovies.to##.notice.alert-default.alert
-fmovies.to##.container > .row
-fmovies.to###footer
-fmovies.to###copyright
-fmovies.to##.container > p
-fmovies.to##.footerdesc
-fmovies.to##.old > .btn-primary.btn
+ffmovies.to###control
+ffmovies.to##.heading > span
+ffmovies.to##.servers > .active
+ffmovies.to##.servers > li:nth-of-type(2)
+ffovies.to##.servers
+ffmovies.to##div.widget:nth-of-type(2)
+ffmovies.to##.hidden-sm.hidden-xs.alert-warning.alert
+ffmovies.to##.hidden-xs.notice.alert-default.alert
+ffmovies.to##.home-socials
+ffmovies.to##.notice.alert-default.alert
+ffmovies.to##.container > .row
+ffmovies.to###footer
+ffmovies.to###copyright
+ffmovies.to##.container > p
+ffmovies.to##.footerdesc
+ffmovies.to##.old > .btn-primary.btn
 ||disqus.com/embed/comments/
 ###disqus_thread
-fmovies.to##.wrapper-alt > .container
-fmovies.to###tags
+ffmovies.to##.wrapper-alt > .container
+ffmovies.to###tags
 
 ! ---------- 9anime ----------
 9anime.ru##.player.widget > .widget-title
@@ -155,6 +155,7 @@ www2.himovies.to###film_comments
 www2.himovies.to###launcher
 ||i.imgur.com/yj2bquI.jpg$image
 www2.himovies.to##[href="javascript:;"]
+www2.himovies.to###gift-1
 
 ! ---------- 4anime ----------
 4anime.to###rightside
