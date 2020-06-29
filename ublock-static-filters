@@ -1,4 +1,24 @@
 ! ---------- Fmovies ----------
+fmovies.to###control
+fmovies.to##.heading > span
+fmovies.to##.servers > .active
+fmovies.to##.servers > li:nth-of-type(2)
+fovies.to##.servers
+fmovies.to##div.widget:nth-of-type(2)
+fmovies.to##.hidden-sm.hidden-xs.alert-warning.alert
+fmovies.to##.hidden-xs.notice.alert-default.alert
+fmovies.to##.home-socials
+fmovies.to##.notice.alert-default.alert
+fmovies.to##.container > .row
+fmovies.to###footer
+fmovies.to###copyright
+fmovies.to##.container > p
+fmovies.to##.footerdesc
+fmovies.to##.old > .btn-primary.btn
+||disqus.com/embed/comments/
+###disqus_thread
+fmovies.to##.wrapper-alt > .container
+fmovies.to###tags
 ffmovies.to###control
 ffmovies.to##.heading > span
 ffmovies.to##.servers > .active
@@ -15,8 +35,6 @@ ffmovies.to###copyright
 ffmovies.to##.container > p
 ffmovies.to##.footerdesc
 ffmovies.to##.old > .btn-primary.btn
-||disqus.com/embed/comments/
-###disqus_thread
 ffmovies.to##.wrapper-alt > .container
 ffmovies.to###tags
 
