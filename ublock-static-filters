@@ -1,42 +1,20 @@
 ! ---------- Fmovies ----------
-fmovies.to###control
-fmovies.to##.heading > span
-fmovies.to##.servers > .active
-fmovies.to##.servers > li:nth-of-type(2)
-fovies.to##.servers
-fmovies.to##div.widget:nth-of-type(2)
-fmovies.to##.hidden-sm.hidden-xs.alert-warning.alert
-fmovies.to##.hidden-xs.notice.alert-default.alert
-fmovies.to##.home-socials
-fmovies.to##.notice.alert-default.alert
-fmovies.to##.container > .row
-fmovies.to###footer
-fmovies.to###copyright
-fmovies.to##.container > p
-fmovies.to##.footerdesc
-fmovies.to##.old > .btn-primary.btn
+fmovies.to##.mb-5
+fmovies.to##.swiper-pagination-bullets.swiper-pagination-clickable.swiper-pagination.paging
+fmovies.to###user
+fmovies.to##footer
+fmovies.to##.note
+fmovies.to###servers
+fmovies.to##.tags
+fmovies.to###comment > .simple.heading
+fmovies.to##.d-md-block.d-none.light.ctl
+fmovies.to##.bookmark
+fmovies.to##.report.ctl
+fmovies.to##.items > div:nth-of-type(5)
+
+! ---------- Disqus ----------
 ||disqus.com/embed/comments/
 ###disqus_thread
-fmovies.to##.wrapper-alt > .container
-fmovies.to###tags
-ffmovies.to###control
-ffmovies.to##.heading > span
-ffmovies.to##.servers > .active
-ffmovies.to##.servers > li:nth-of-type(2)
-ffovies.to##.servers
-ffmovies.to##div.widget:nth-of-type(2)
-ffmovies.to##.hidden-sm.hidden-xs.alert-warning.alert
-ffmovies.to##.hidden-xs.notice.alert-default.alert
-ffmovies.to##.home-socials
-ffmovies.to##.notice.alert-default.alert
-ffmovies.to##.container > .row
-ffmovies.to###footer
-ffmovies.to###copyright
-ffmovies.to##.container > p
-ffmovies.to##.footerdesc
-ffmovies.to##.old > .btn-primary.btn
-ffmovies.to##.wrapper-alt > .container
-ffmovies.to###tags
 
 ! ---------- 9anime ----------
 9anime.ru##.player.widget > .widget-title
@@ -190,3 +168,4 @@ soap2day.im##div.col-lg-12.col-sm-12:nth-of-type(2)
 soap2day.im##div.col-lg-12.col-sm-12:nth-of-type(4)
 soap2day.im##.btn-success.btn
 soap2day.im###aLogin
+
