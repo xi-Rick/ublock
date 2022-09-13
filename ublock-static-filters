@@ -10,6 +10,8 @@ fmovies.to##.d-md-block.d-none.light.ctl
 fmovies.to##.bookmark
 fmovies.to##.report.ctl
 fmovies.to##.items > div:nth-of-type(5)
+fmovies.to##.shorting
+fmovies.to##.content
 
 ! ---------- Disqus ----------
 ||disqus.com/embed/comments/
@@ -167,4 +169,3 @@ soap2day.im##div.col-lg-12.col-sm-12:nth-of-type(2)
 soap2day.im##div.col-lg-12.col-sm-12:nth-of-type(4)
 soap2day.im##.btn-success.btn
 soap2day.im###aLogin
-
