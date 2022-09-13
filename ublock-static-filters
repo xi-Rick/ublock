@@ -6,6 +6,8 @@ fmovies.to##.tags
 fmovies.to##footer
 fmovies.to###user
 fmovies.to##.content [href="https://twitter.com/fmoviesdotto"]
+fmovies.to##.swiper-pagination-bullets.swiper-pagination-clickable.swiper-pagination.paging
+fmovies.to##.mb-5
 
 ! ---------- Disqus ----------
 ||disqus.com/embed/comments/
